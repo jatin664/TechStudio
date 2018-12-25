@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+            <item
+                android:id="@+id/nav_home"
+                android:icon="@drawable/home"
+                android:title="Home" />
+            <item
+                android:id="@+id/nav_phone"
+                android:icon="@drawable/phone"
+                android:title="Phones" />
+            <item
+                android:id="@+id/nav_laptop"
+                android:icon="@drawable/laptop"
+                android:title="Laptops" />
+            <item
+                android:id="@+id/nav_tv"
+                android:icon="@drawable/tv"
+                android:title="TV's" />
+            <item
+                android:id="@+id/nav_tablets"
+                android:icon="@drawable/tablet"
+                android:title="Tablets" />
+            <item
+                android:id="@+id/nav_gaming"
+                android:icon="@drawable/game"
+                android:title="Gaming"/>
+
+
+</menu>

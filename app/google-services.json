@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "13617750707",
+    "firebase_url": "https://techstudio-646.firebaseio.com",
+    "project_id": "techstudio-646",
+    "storage_bucket": "techstudio-646.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13617750707:android:0c4cf6bd2bad6087",
+        "android_client_info": {
+          "package_name": "com.example.jatin.techstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13617750707-es67061kg5jj4a0jhr2osekolqdps09g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jatin.techstudio",
+            "certificate_hash": "cfb3509244dd8dd8101807e72a0d29580b7ff1ac"
+          }
+        },
+        {
+          "client_id": "13617750707-7e4s79keqg7bcmk3jvic7enirs8qpcpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvGoQ4vWALLqSGQEWGmC9rsudgkx40k7M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13617750707-7e4s79keqg7bcmk3jvic7enirs8qpcpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
